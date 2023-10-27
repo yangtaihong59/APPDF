@@ -1,5 +1,5 @@
 # Accelerate Road Plan with Distance Fields
-**⚠️ NOTE: This project is associated with an article currently under review. It will be updated and the link to the article will be provided upon acceptance.**
+**⚠️ NOTE: This repository serves as a preview for an article currently undergoing review. The code will be uploaded upon acceptance of the article, and the article link will also be provided at that time.**
 
 ## Use Distance Fields to accelerate road plan
 
