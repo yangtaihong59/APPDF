@@ -273,18 +273,27 @@
 
 <div align="center">
     <a href="./">
-	<img src="./DF RRT Star/DF_RRT_Star.png" width="40%"/>
+	<img src="./DF RRT Star/RRT_Star_1.png" width="30%"/>
     </a>  
     <a href="./">
-	<img src="./DF RRT Star/RRT_Star.png" width="40%"/>
+	<img src="./DF RRT Star/RRT_Star_2.png" width="30%"/>
     </a>
     <a href="./">
-	<img src="./DF RRT Star/DF_RRT_Star_AS.png" width="40%"/>
-    </a>    
-    <a href="./">
-	<img src="./DF RRT Star/DF_RRT_Star_AS_2.png" width="40%"/>
+	<img src="./DF RRT Star/RRT_Star_3.png" width="30%"/>
     </a>
 </div>
+<div align="center">
+    <a href="./">
+	<img src="./DF RRT Star/DF_RRT_Star_AS_1.png" width="30%"/>
+    </a>    
+    <a href="./">
+	<img src="./DF RRT Star/DF_RRT_Star_AS_2.png" width="30%"/>
+    </a>
+    <a href="./">
+	<img src="./DF RRT Star/DF_RRT_Star_AS_3.png" width="30%"/>
+    </a>
+</div>
+
 
 
 ## RUN
